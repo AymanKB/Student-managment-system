@@ -1,0 +1,144 @@
+FCIS
+Foundation
+Ng Bo Yan
+Calculus
+TC1467
+3
+
+Discrete Stucture
+Tan Chew Ban
+TSN1102
+2
+
+Mathematics 1
+Shannon William
+TCP2003
+4
+
+Mathematics 2
+Shannon Wiliam
+TCP2031
+2
+
+Fundamental Programming 
+Dee Malia
+TSN1023
+4
+
+Diploma
+Computer Programming 
+Santesh Kumar
+TN1435
+3
+
+System Analysis, Designs and Prototype
+Alia Maisarah Bt Roszaman
+TP3602
+3
+
+Communication & Study Skills in English
+Vivian Co
+TSN1024
+2
+
+Calculus 1
+Hanna Rashid
+TS1021
+4
+
+Calculus 2
+Hanna Rahid
+TCP1034
+3
+
+Computer Hardware Fundamentals
+Tan How Lock
+TBN1131
+3
+
+Undergraduate
+
+Advance Calculus
+Tan Siew Chan
+TP3002
+4
+
+Database Fundamental
+Sabrina Tan
+TU1192
+3
+
+Operational System
+Ng Hu
+TS3201
+3
+
+Software Engineering Fundamental
+Ho Chin Ban
+TSN2056
+3
+----------------------------------------
+Engineering
+
+Foundation
+
+Algebra 
+Ayuni Amira
+TC4401
+2
+
+Engineering Orientation
+Sandee Jorge
+TC4402
+3
+
+Engineering Drawing
+Arwin Kumar
+TSN3320
+3
+
+English Fundamental
+Micheal Sortesh
+TN2301
+2
+
+Trigonometry
+Nichole Ng
+TS2300
+3
+
+Diploma
+
+Advance Algebra
+Dayang Fausyazleen
+TN3302
+3
+
+Analytic Geomatric
+Umar Hakim
+TN5501
+2
+
+Physics Fundamental
+Go Soon Ban
+TN3303
+3
+
+Undergraduate
+
+Engineering Mathematics 1
+Harith Ridwan
+TSN2221
+3
+
+Engineering Mathematics 2
+Albert Kwak 
+TN0012
+3
+
+General Physics 1
+Sarah Albornur
+TSN2102
+3
+
+
